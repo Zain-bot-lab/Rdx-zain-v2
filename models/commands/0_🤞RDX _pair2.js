@@ -2,7 +2,7 @@ module.exports.config = {
   name: "pair2",
   version: "1.0.0", 
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "RDX_ZAIN",
   description: "Ghep doi ngau nhien",
   commandCategory: "random-img", 
   usages: "", 

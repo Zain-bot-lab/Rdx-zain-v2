@@ -2,7 +2,7 @@ module.exports.config = {
     name: "setdatabox",
     version: "1.0",
     hasPermssion: 2,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "RDX_ZAIN",
     description: "Set new data of boxes into data",
     commandCategory: "System",
     usages: "",

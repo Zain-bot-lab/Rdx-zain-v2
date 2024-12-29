@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "setmoney",
 	version: "0.0.1",
 	hasPermssion: 2,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RD_ZAIN",
 	description: "change the amount of yourself or the person tagged",
 	commandCategory: "System",
 	usages: "setmoney [Tag]",

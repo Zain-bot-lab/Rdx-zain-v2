@@ -3,7 +3,7 @@ module.exports.config = {
     name: "game",
     version: "1.1.8",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "RDX_ZAIN",
     description: "Chasing catchphrases on your own messenger!!!",
     commandCategory: "Entertainment",
     usages: "[1/2]",

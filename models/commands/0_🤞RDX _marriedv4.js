@@ -2,7 +2,7 @@ module.exports.config = {
     name: "marriedv4",
     version: "3.1.1",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "RDX_ZAIN",
     description: "married",
     commandCategory: "img",
     usages: "[@mention]",

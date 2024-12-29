@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "sendnoti2",
 	version: "1.0.2",
 	hasPermssion: 2,
-	credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩",
+	credits: "RDX_ZAIN",
 	description: "Send messages to groups (reply to photos/videos to be attached)!\nBetter version of sendnotiUwU",
 	commandCategory: "system",
 	usages: "[Text]",

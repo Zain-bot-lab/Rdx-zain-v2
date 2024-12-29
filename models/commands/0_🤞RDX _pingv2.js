@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "pingv2",
 	version: "0.0.3",
 	hasPermssion: 1,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RDX_ZAIN",
 	description: "Tag all members",
 	commandCategory: "system",
 	usages: "[Text]",

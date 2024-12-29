@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "rnamebot",
 	version: "1.0.1",
 	hasPermssion: 2,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RDX_ZAIN",
 	description: "Change the bot's nickname in the whole bot!",
 	commandCategory: "system",
 	usages: "[Nickname to set]",

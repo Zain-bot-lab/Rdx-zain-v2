@@ -2,7 +2,7 @@ module.exports.config = {
     name: "love",
     version: "2.6.0",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "RDX_ZAIN",
     description: "",
     commandCategory: "Love",
     usages: "[tag]",

@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "note",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RDX_ZAIM",
 	description: "Customize notes for each group",
 	commandCategory: "Box chat",
 	usages: "[add/remove/all] [note]",

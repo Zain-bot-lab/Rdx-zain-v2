@@ -2,7 +2,7 @@ module.exports.config = {
     name: "pay",
     version: "1.0.1",
     hasPermssion: 0,
-    credits: "Mirai Team",
+    credits: "RDX_ZAIN",
     description: "Chuyển tiền cho người khác",
     commandCategory: "economy",
     usages: "[tag người dùng] [Số tiền cần chuyển]",

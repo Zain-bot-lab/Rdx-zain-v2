@@ -2,7 +2,7 @@ module.exports.config = {
   name: "schoolid",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "RDX_ZAIN",
   description: "Fake School Id",
   commandCategory: "image",
   usages: "@mention",

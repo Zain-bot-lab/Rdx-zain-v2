@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "coin",
 	version: "1.0.2",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝐏RDX_ZAIN",
 	description: "Check the amount of yourself or the person tagged",
 	commandCategory: "economy",
 	usages: "[Tag]",

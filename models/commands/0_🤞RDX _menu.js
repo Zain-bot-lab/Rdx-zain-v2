@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "menu",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RDX_ZAIN",
 	description: "Menu, just a menu",
 	usages: "[all/-a] [number of pages]",
 	commandCategory: "system",

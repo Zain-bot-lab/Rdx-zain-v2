@@ -2,7 +2,7 @@ module.exports.config = {
     name: "sis",
     version: "7.3.1",
     hasPermssion: 0,
-    credits: " Priyansh Rajput", 
+    credits: " RDX_ZAIN", 
     description: "Get Pair From Mention",
     commandCategory: "png",
     usages: "[@mention]",

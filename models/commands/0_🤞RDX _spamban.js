@@ -4,7 +4,7 @@ const timee = 120 // During `timee` spam `num` times will be banned
   name: "spamban",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "RDX_ZAIN",
   description: `automatically ban users if spam bots ${num} time/${timee}s`,
   commandCategory: "System",
   usages: "x",

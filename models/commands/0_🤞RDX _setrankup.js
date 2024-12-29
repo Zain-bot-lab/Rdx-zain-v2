@@ -2,7 +2,7 @@ module.exports.config = {
     name: "setrankup",
     version: "1.0.5",
     hasPermssion: 1,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "RDX_ZAIN",
     description: "Edit text/animation when new members level up",
     commandCategory: "System",
     usages: "[gif/text] [Text or URL Download GIF image]",

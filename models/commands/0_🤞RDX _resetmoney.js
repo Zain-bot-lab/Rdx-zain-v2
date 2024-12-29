@@ -2,7 +2,7 @@ module.exports.config = {
     name: "resetmoney",
     version: "1.0.0",
     hasPermssion: 1,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "RDX_ZAIN",
     description: "Reset the amount of the whole group about 0",
     commandCategory: "System",
     usages: "[cc], [del], [all]",

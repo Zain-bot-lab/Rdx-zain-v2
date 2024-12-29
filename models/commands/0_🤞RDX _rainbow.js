@@ -2,7 +2,7 @@ module.exports.config = {
   name: "rainbow",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "RDX_ZAIN",
   description: "Change color conversation continuously according to the number",
   commandCategory: "System",
   usages: "rainbow [change]",

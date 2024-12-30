@@ -2,7 +2,7 @@ module.exports.config = {
   name: "dpname4",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARIF BABU",
+  credits: "RDX_ZAIN",
   description: "THIS BOT IS MADE BY PREM BABU",
   commandCategory: "EDIT NAME TEXT LOVE",
   usages: "TEXT-1 + TEXT-2",

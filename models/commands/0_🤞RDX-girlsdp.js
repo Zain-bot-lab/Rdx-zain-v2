@@ -2,7 +2,7 @@ module.exports.config = {
   name: "girldp",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARIF BABU",
+  credits: "RDX_ZAIN",
   description: "Girl Dp photos",
   commandCategory: "Random-IMG",
   usages: "girl dp",

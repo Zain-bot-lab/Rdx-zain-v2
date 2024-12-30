@@ -2,7 +2,7 @@ module.exports.config = {
   name: "wasted",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "Joshua Sy",
+  credits: "RDX_ZAIN",
   description: "communism",
   commandCategory: "banner",
   cooldowns: 2,

@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "tiki",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RDX_ZAIN",
 	description: "Write words on the board \_(ツ)_/¯",
 	commandCategory: "Tools",
 	usages: "tiki [text]",

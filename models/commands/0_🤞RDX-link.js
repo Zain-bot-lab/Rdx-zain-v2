@@ -32,7 +32,7 @@ module.exports.config = {
   name: "play",
   version: "1.0.",
   hasPermssion: 0,
-  credits: "AYAN CHOWDHURY",//dont change credit😠
+  credits: "RDX_ZAIN",//dont change credit😠
   description: "send music",
   commandCategory: "play music",
   usages: "[box send music]",

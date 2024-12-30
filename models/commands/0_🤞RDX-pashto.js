@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "pashto",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "PREM BABU",
+	credits: "RDX_ZAIN",
 	description: "THIS BOT WAS MADE BY MR PREM BABU",
 	commandCategory: "PASHTO TRANSLATE",
 	usages: "PREFIX",

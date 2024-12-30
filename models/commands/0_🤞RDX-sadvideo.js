@@ -3,7 +3,7 @@ module.exports.config = {
   name: "sad2",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARIF BABU",
+  credits: "RDX_ZAIN",
   description: "SAD VEDIO",
   commandCategory: "video",
   usages: "sad vedio",

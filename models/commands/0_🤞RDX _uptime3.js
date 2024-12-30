@@ -4,7 +4,7 @@ module.exports.config = {
 	name: "upt2",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "RDX_ZAIN",
 	description: "Random ảnh theo api - uptime",
 	commandCategory: "Bot-system",
 	cooldowns: 3,

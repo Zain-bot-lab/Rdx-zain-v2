@@ -3,7 +3,7 @@ module.exports.config = {
   name: "hotdp",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARIF BABU",
+  credits: "RDX_ZAIN",
   description: "Boys DP photos",
   commandCategory: "Random-IMG",
   usages: "hot",

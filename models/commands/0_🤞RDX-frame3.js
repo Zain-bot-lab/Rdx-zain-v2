@@ -2,7 +2,7 @@ module.exports.config = {
     name: "fram3",
     version: "7.3.1",
     hasPermssion: 0,
-    credits: "ARIF BABU",
+    credits: "RDX_ZAIN",
     description: "THIS BOT WAS MADE BY MR ARIF BABU",
     commandCategory: "PROFILE DP FRAME",
     usages: "PREFIX MENTION",

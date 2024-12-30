@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "english",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "PREM BABU",
+	credits: "PRDX_ZAIN",
 	description: "THIS BOT WAS MADE BY MR PREM BABU",
 	commandCategory: "ENGLISH TRANSLATE",
 	usages: "PREFIX",

@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "women",
     version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭", 
+	credits: "RDX-ZAIN", 
 	description: "hihihihi",
 	commandCategory: "no prefix",
 	usages: "women",
